@@ -368,3 +368,268 @@ Solution count 1: 8
 
 Optimal solution found (tolerance 1.00e-04)
 Best objective 8.000000000000e+00, best bound 8.000000000000e+00, gap 0.0000%
+
+Gurobi 7.5.1 (win64, Java) logging started 01/14/18 23:27:00
+
+Academic license - for non-commercial use only
+Optimize a model with 11 rows, 9 columns and 30 nonzeros
+Variable types: 0 continuous, 9 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 11 rows and 9 columns
+Presolve time: 0.08s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.14 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 4 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.000000000000e+00, best bound 4.000000000000e+00, gap 0.0000%
+
+Gurobi 7.5.1 (win64, Java) logging started 01/14/18 23:28:54
+
+Academic license - for non-commercial use only
+Optimize a model with 11 rows, 9 columns and 30 nonzeros
+Variable types: 0 continuous, 9 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 11 rows and 9 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 4 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.000000000000e+00, best bound 4.000000000000e+00, gap 0.0000%
+
+Gurobi 7.5.1 (win64, Java) logging started 01/14/18 23:36:22
+
+Academic license - for non-commercial use only
+Optimize a model with 11 rows, 9 columns and 30 nonzeros
+Variable types: 0 continuous, 9 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 11 rows and 9 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 4 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.000000000000e+00, best bound 4.000000000000e+00, gap 0.0000%
+
+Gurobi 7.5.1 (win64, Java) logging started 01/14/18 23:37:00
+
+Academic license - for non-commercial use only
+Optimize a model with 11 rows, 9 columns and 30 nonzeros
+Variable types: 0 continuous, 9 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 11 rows and 9 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 4 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.000000000000e+00, best bound 4.000000000000e+00, gap 0.0000%
+
+Gurobi 7.5.1 (win64, Java) logging started 01/14/18 23:37:42
+
+Academic license - for non-commercial use only
+Optimize a model with 11 rows, 9 columns and 30 nonzeros
+Variable types: 0 continuous, 9 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 8e+00]
+Presolve removed 11 rows and 9 columns
+Presolve time: 0.08s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.08 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 21 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.100000000000e+01, best bound 2.100000000000e+01, gap 0.0000%
+
+Gurobi 7.5.1 (win64, Java) logging started 01/14/18 23:39:42
+
+Academic license - for non-commercial use only
+Optimize a model with 11 rows, 9 columns and 30 nonzeros
+Variable types: 0 continuous, 9 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 5e+00]
+Presolve removed 11 rows and 9 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 16 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.600000000000e+01, best bound 1.600000000000e+01, gap 0.0000%
+
+Gurobi 7.5.1 (win64, Java) logging started 01/15/18 00:13:36
+
+Academic license - for non-commercial use only
+Optimize a model with 11 rows, 9 columns and 30 nonzeros
+Variable types: 0 continuous, 9 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 5e+00]
+Presolve removed 11 rows and 9 columns
+Presolve time: 0.58s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.65 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 12 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.200000000000e+01, best bound 1.200000000000e+01, gap 0.0000%
+
+Gurobi 7.5.1 (win64, Java) logging started 01/15/18 00:15:37
+
+Academic license - for non-commercial use only
+Optimize a model with 11 rows, 9 columns and 30 nonzeros
+Variable types: 0 continuous, 9 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 5e+00]
+Found heuristic solution: objective 8
+Presolve removed 11 rows and 9 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.06 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 8 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.000000000000e+00, best bound 8.000000000000e+00, gap 0.0000%
+
+Gurobi 7.5.1 (win64, Java) logging started 01/15/18 00:21:59
+
+Academic license - for non-commercial use only
+Optimize a model with 11 rows, 9 columns and 30 nonzeros
+Variable types: 0 continuous, 9 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 11 rows and 9 columns
+Presolve time: 0.08s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.09 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.000000000000e+00, best bound 6.000000000000e+00, gap 0.0000%
+
+Gurobi 7.5.1 (win64, Java) logging started 01/15/18 00:23:18
+
+Academic license - for non-commercial use only
+Optimize a model with 11 rows, 9 columns and 30 nonzeros
+Variable types: 0 continuous, 9 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [4e+00, 9e+00]
+Presolve removed 11 rows and 9 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 27 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.700000000000e+01, best bound 2.700000000000e+01, gap 0.0000%
+
+Gurobi 7.5.1 (win64, Java) logging started 01/15/18 00:23:35
+
+Academic license - for non-commercial use only
+Optimize a model with 11 rows, 9 columns and 30 nonzeros
+Variable types: 0 continuous, 9 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 9e+00]
+Presolve removed 11 rows and 9 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 23 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.300000000000e+01, best bound 2.300000000000e+01, gap 0.0000%
+
+Gurobi 7.5.1 (win64, Java) logging started 01/15/18 00:28:48
+
+Academic license - for non-commercial use only
+Optimize a model with 11 rows, 9 columns and 30 nonzeros
+Variable types: 0 continuous, 9 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 11 rows and 9 columns
+Presolve time: 0.14s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.18 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 8 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.000000000000e+00, best bound 8.000000000000e+00, gap 0.0000%
